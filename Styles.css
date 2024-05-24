@@ -85,6 +85,7 @@ aside {
     color: #B5CFED;
     height: 100%;
     word-break: break-all;
+    overflow: scroll;
 }
 
 aside ul {
